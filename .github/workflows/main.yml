@@ -79,4 +79,4 @@ jobs:
          -Dmule.artifact=$artifactName \
          -Danypoint.username="$USERNAME" \
          -Danypoint.password="$PASSWORD" \
-         -DskipTests
+         -DskipTests\
